@@ -5,14 +5,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Employee Information</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
 </head>
 
 <body>
 
-    <div class=" container">
+    <div class=" container table-responsive">
         <button class="btn btn-secondary text-light bg-dark fw-semibold font-monospace my-3">
             <a href="/index.php" class="link-offset-2 link-underline link-underline-opacity-0 text-light"> Add Employee </a> </button>
         <table class="table">
